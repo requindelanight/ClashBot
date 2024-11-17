@@ -7,5 +7,5 @@ GRANT ALL PRIVILEGES ON clash_of_clan.* TO 'clash_admin'@'localhost';
 USE clash_of_clan;
 
 DROP TABLE IF EXISTS user;
-CREATE TABLE user (id INT NOT NULL, tag VARCHAR(20) NOT NULL, PRIMARY KEY(id));
+CREATE TABLE user (id BIGINT NOT NULL, tag VARCHAR(20) NOT NULL, PRIMARY KEY(id));
 
