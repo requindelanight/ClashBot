@@ -1,0 +1,1 @@
+Cette politique de confidentialité s'applique au bot Discord [ClashBot]. Nous collectons les ID utilisateur afin de fournir les fonctionnalités du bot. Ces données sont stockées de manière sécurisée et ne sont pas partagées avec des tiers, sauf si cela est requis par la loi.
